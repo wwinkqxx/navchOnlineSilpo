@@ -171,7 +171,6 @@ string generateFileName() {
     char buffer[50];
     strftime(buffer, sizeof(buffer),
         "order_%Y-%m-%d_%H-%M-%S.txt", &now);
-
     return string(buffer);
 }
 
