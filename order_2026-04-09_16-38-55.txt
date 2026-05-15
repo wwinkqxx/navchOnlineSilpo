@@ -1,0 +1,26 @@
+STATUS: Completed
+DATE & TIME: 25.10.2026 17:00
+ADDRESS: Doroshenka 13
+~~~~~~~~~~~~~~~~~~~~
+Bread x1 = 30 UAH
+Apple x1 = 40 UAH
+Cheese x1 = 120 UAH
+Banana x1 = 35 UAH
+Orange x1 = 45 UAH
+Chicken x1 = 150 UAH
+Beef x1 = 220 UAH
+Fish x1 = 180 UAH
+Eggs x1 = 70 UAH
+Butter x1 = 90 UAH
+Yogurt x1 = 60 UAH
+Tomato x1 = 55 UAH
+Cucumber x1 = 50 UAH
+Potato x1 = 25 UAH
+Onion x1 = 20 UAH
+Rice x4 = 320 UAH
+Pasta x1 = 75 UAH
+Juice x1 = 65 UAH
+Water x1 = 25 UAH
+Chocolate x1 = 95 UAH
+Milk x1 = 50 UAH
+TOTAL: 1820 UAH
